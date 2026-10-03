@@ -1,0 +1,21 @@
+body{
+	background-color: antiquewhite;
+}
+
+img{
+	width: 600px;
+}
+
+.text_center{
+	text-align: center;
+}
+
+#page_title{
+	text-align: center;
+	font-size: 36px;
+}
+
+#first_car_name{
+	text-align: center;
+	font-style: italic;
+}
