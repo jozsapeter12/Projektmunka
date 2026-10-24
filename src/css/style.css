@@ -1,0 +1,57 @@
+body{
+	background-color: antiquewhite;
+	margin: 0px;
+}
+
+header{
+	display: flex;
+	align-items: center;
+	gap: 20px;
+
+	background-color: #ff6a38;
+	height: 30px;
+	padding: 0px 20px;
+
+}
+
+#header-table{
+	border-left: 3px solid white;
+	border-right: 3px solid white;
+	border-collapse: collapse;
+	height: 100%;
+	color: white;
+	padding: 0px 20px;
+}
+
+#header-table a{
+	color: white;
+	text-decoration: none;
+}
+
+#icon{
+	height: 25px;
+}
+
+#charger{
+	width: 600px;
+}
+
+#charger-engine{
+	width: 600px;
+}
+
+
+.text_center{
+	text-align: center;
+}
+
+#page_title{
+	text-align: center;
+	font-size: 36px;
+}
+
+#first_car_name{
+	text-align: center;
+	font-style: italic;
+}
+
