@@ -1,0 +1,48 @@
+body{
+	background-color: antiquewhite;
+	margin: 0px;
+}
+
+header{
+	display: flex;
+	align-items: center;
+	gap: 20px;
+
+	background-color: #ff6a38;
+	height: 30px;
+	padding: 0px 20px;
+	margin-bottom: 50px;
+}
+
+#header-table{
+	border-left: 3px solid white;
+	border-right: 3px solid white;
+	border-collapse: collapse;
+	height: 100%;
+	color: white;
+	padding: 0px 20px;
+}
+
+#header-table a{
+	color: white;
+	text-decoration: none;
+}
+
+#icon{
+height: 25px;
+}
+
+#main-table{
+	border-collapse: collapse;
+	margin: auto;
+	font-size: 22px;
+	text-align: center;
+}
+
+#main-table thead th{
+	border: 5px solid darkorange;
+}
+
+#main-table tbody td{
+	border: 3px solid orange;
+}
