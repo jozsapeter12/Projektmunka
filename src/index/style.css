@@ -52,13 +52,40 @@ h2{
 #charger-engine{
 	width: 400px;
 	float: right;
-	margin: -10px 15px 15px 15px;
+	margin: -25px 15px 15px 15px;
 }
 
 .text_center{
 	text-align: center;
 }
 
+#charger-keret{
+	height: auto;
+	margin: 15px;
+	padding: 25px;
+	border: 4px solid gray;
+	border-radius: 80px;
+}
+
+#camaro{
+	width: 400px;
+	float: left;
+	margin: -25px 15px 15px 15px;
+}
+
+#camaro-keret{
+	height: auto;
+	margin: 15px;
+	padding: 25px;
+	border: 4px solid gray;
+	border-radius: 80px;
+}
+
+#camaro-engine{
+	width: 400px;
+	float: right;
+	margin: -25px 15px 15px 15px;
+}
 
 
 
